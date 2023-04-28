@@ -1,4 +1,4 @@
-docker-playsms
+docker-playsms 1
 ==============
 
 Item            | Info
